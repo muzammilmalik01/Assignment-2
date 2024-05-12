@@ -1,0 +1,142 @@
+.card-img-top {
+  height: 35px;
+  width: 35px;
+  margin-left: 30px;
+  color: whitesmoke;
+}
+.card {
+  border-radius: 0;
+}
+.card-title {
+  font-size: medium;
+  font-weight: bold;
+  margin-top: 5px;
+  color: whitesmoke;
+  margin-bottom: 25px;
+}
+.card-text {
+  font-size: small;
+  color: whitesmoke;
+}
+
+.horizontal-line {
+  color: white;
+  border-top: 3px solid white;
+  width: 25%;
+}
+/* #fb414e - Primary Red*/
+/* #202b2f - Secondary Dark Grey*/
+/* #868686 - Light Text */
+
+.services-text {
+  color: #fb414e;
+  text-align: center;
+  font-weight: 700;
+  font-size: small;
+}
+.services-heading {
+  color: #202b2f;
+  text-align: center;
+  font-weight: 900;
+  font-size: 50px;
+}
+
+.services-small-text {
+  text-align: center;
+  margin: auto;
+  color: #868686;
+  font-size: small;
+  width: 50%;
+  font-weight: 200;
+}
+
+.service-tile {
+  padding: 5%;
+  padding-bottom: 0;
+}
+
+.services-tile-icon {
+  height: 30px;
+  width: 30px;
+  background-color: #202b2f;
+}
+.service-tile-heading {
+  text-align: center;
+  font-weight: bolder;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  font-size: x-large;
+}
+
+.service-tile-text {
+  text-align: center;
+  font-size: small;
+  color: #a0a0a0;
+  font-weight: 100;
+}
+
+.business-container {
+  background-color: #202b2f;
+  margin-left: 0;
+  margin-right: 0;
+  padding-right: 10%;
+  padding-left: 10%;
+  padding-top: 5%;
+  padding-bottom: 5%;
+}
+
+.business-container-heading {
+  font-weight: bolder;
+  color: whitesmoke;
+}
+
+.business-container-text {
+  font-weight: 100;
+  color: whitesmoke;
+  font-size: smaller;
+}
+
+.business-container-button {
+  border-radius: 0;
+  padding-left: 7%;
+  padding-right: 7%;
+}
+
+.business-container-image {
+  object-fit: cover;
+}
+
+.business-empty-container {
+  background-color: #fb414e;
+  border: 1px;
+}
+
+.services-container {
+  margin-left: 0;
+  margin-right: 0;
+  padding-right: 10%;
+  padding-left: 10%;
+  padding-top: 5%;
+  padding-bottom: 5%;
+}
+
+.services-container-heading {
+  font-weight: bolder;
+  color: #202b2f;
+}
+
+.services-container-text {
+  font-weight: 100;
+  color: #202b2f;
+  font-size: smaller;
+}
+
+.services-container-button {
+  border-radius: 0;
+  padding-left: 7%;
+  padding-right: 7%;
+}
+
+.services-container-image {
+  object-fit: cover;
+}
